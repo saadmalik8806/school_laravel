@@ -31,7 +31,7 @@
         </div>
         <div class="form-group">
             <label for="">contact number</label>
-            <input type="number" name="contact" class="form-control" placeholder="" aria-describedby="helpId">
+            <input type="tel" name="contact" class="form-control" placeholder="" aria-describedby="helpId">
         </div>
         <div class="form-group">
             <label for="">School image</label>
